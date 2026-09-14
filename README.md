@@ -32,7 +32,7 @@ An interactive, pigeon-themed to-do list web application. This project provides 
 
 * **HTML5:** Semantic architecture for accessible task inputs and lists.
 * **CSS3:** Custom flexbox layouts and specialized visual design, including unique egg-shaped container styling to match the urban avian theme.
-* **JavaScript (ES6+):** Vanilla JavaScript driving the core CRUD (Create, Read, Update, Delete) operations, event listeners, and dynamic DOM updates without relying on external libraries.
+
 
 ##  How to Run Locally
 
