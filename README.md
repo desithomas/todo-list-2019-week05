@@ -24,7 +24,7 @@ I'm not sure if my constructors are setup cleanly...
 My Result: <img width="2704" height="1502" alt="messenger-pigeon-todo-app" src="https://github.com/user-attachments/assets/68784001-f6ef-45cc-81f9-b985d807991a" />
 
 
-#  Urban Pigeon Task Tracker
+#  Messenger Pigeon Task Tracker
 
 An interactive, pigeon-themed to-do list web application. This project provides a streamlined interface for tracking daily tasks, utilizing custom egg-shaped UI containers and lightweight DOM manipulation to handle task state. 
 
